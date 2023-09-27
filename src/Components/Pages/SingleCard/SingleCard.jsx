@@ -21,7 +21,6 @@ const SingleCard = () => {
     
     return (
         <div>
-             {/* <CardShow card={filter}></CardShow> */}
              <li>{filter.id}</li>
              
         </div>
